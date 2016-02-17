@@ -1,0 +1,4 @@
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Ferry Library\bin\Release\Ferry.dll
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Ferry Library\bin\Release\Ferry.pdb
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Ferry Library\obj\Release\Ferry.dll
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Ferry Library\obj\Release\Ferry.pdb

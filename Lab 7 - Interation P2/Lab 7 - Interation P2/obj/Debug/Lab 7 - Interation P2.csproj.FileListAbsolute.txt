@@ -1,0 +1,6 @@
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 7 - Interation P2\Lab 7 - Interation P2\bin\Debug\Lab 7 - Interation P2.exe.config
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 7 - Interation P2\Lab 7 - Interation P2\bin\Debug\Lab 7 - Interation P2.exe
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 7 - Interation P2\Lab 7 - Interation P2\bin\Debug\Lab 7 - Interation P2.pdb
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 7 - Interation P2\Lab 7 - Interation P2\obj\Debug\Lab 7 - Interation P2.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 7 - Interation P2\Lab 7 - Interation P2\obj\Debug\Lab 7 - Interation P2.exe
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 7 - Interation P2\Lab 7 - Interation P2\obj\Debug\Lab 7 - Interation P2.pdb

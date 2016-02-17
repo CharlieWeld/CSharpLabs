@@ -1,0 +1,6 @@
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Lab 9 - Ferry\bin\Release\Lab 9 - Ferry.exe.config
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Lab 9 - Ferry\bin\Release\Lab 9 - Ferry.exe
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Lab 9 - Ferry\bin\Release\Lab 9 - Ferry.pdb
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Lab 9 - Ferry\obj\Release\Lab 9 - Ferry.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Lab 9 - Ferry\obj\Release\Lab 9 - Ferry.exe
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 9 - Ferry\Lab 9 - Ferry\obj\Release\Lab 9 - Ferry.pdb
