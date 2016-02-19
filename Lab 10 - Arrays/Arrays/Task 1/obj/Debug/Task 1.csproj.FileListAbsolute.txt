@@ -4,3 +4,9 @@ C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 10 - A
 C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 10 - Arrays\Arrays\Task 1\bin\Debug\Task 1.pdb
 C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 10 - Arrays\Arrays\Task 1\obj\Debug\Task 1.exe
 C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab 10 - Arrays\Arrays\Task 1\obj\Debug\Task 1.pdb
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\CSharpLabs\Lab 10 - Arrays\Arrays\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\CSharpLabs\Lab 10 - Arrays\Arrays\Task 1\obj\Debug\Task 1.exe
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\CSharpLabs\Lab 10 - Arrays\Arrays\Task 1\obj\Debug\Task 1.pdb
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\CSharpLabs\Lab 10 - Arrays\Arrays\Task 1\bin\Debug\Task 1.exe
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\CSharpLabs\Lab 10 - Arrays\Arrays\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\CSharpLabs\Lab 10 - Arrays\Arrays\Task 1\obj\Debug\Task 1.csprojResolveAssemblyReference.cache

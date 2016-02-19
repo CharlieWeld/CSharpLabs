@@ -1,6 +1,0 @@
-C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
-C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab1\Lab1\bin\Debug\Lab1.exe
-C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
-C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
-C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab1\Lab1\obj\Debug\Lab1.exe
-C:\Users\Charlie\Dropbox\Enterprise\1 C# and OO Primer\Labs\Code Labs\Lab1\Lab1\obj\Debug\Lab1.pdb

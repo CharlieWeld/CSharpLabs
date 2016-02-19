@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3 - Salesmen", "Task 3 - Salesmen\Task 3 - Salesmen.csproj", "{81C9148C-C888-48D6-A1C7-DC8FCD4DE554}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Salesman1200", "Salesman1200\Salesman1200.vdproj", "{710EC637-BC51-41AA-90F0-85D15E6791B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C9148C-C888-48D6-A1C7-DC8FCD4DE554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C9148C-C888-48D6-A1C7-DC8FCD4DE554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C9148C-C888-48D6-A1C7-DC8FCD4DE554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C9148C-C888-48D6-A1C7-DC8FCD4DE554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710EC637-BC51-41AA-90F0-85D15E6791B1}.Debug|Any CPU.ActiveCfg = Debug
+		{710EC637-BC51-41AA-90F0-85D15E6791B1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
